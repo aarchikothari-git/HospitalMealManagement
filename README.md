@@ -1,7 +1,7 @@
 # HospitalMealManagement
 
 ## Overview
-This is a Node.js application built with Express.js. It is designed to [describe the purpose of your project briefly].
+This is a Node.js application built with Express.js designed to manage patient meal planning and delivery in hospitals, ensuring timely and personalized food distribution.
 
 ## Prerequisites
 
